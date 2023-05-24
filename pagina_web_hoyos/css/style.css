@@ -1,0 +1,190 @@
+*{
+    margin: 0; 
+    padding: 0;
+    box-sizing: border-box;
+ }
+  
+  body{
+      background-color: #409cd4;
+      font-family: sans-serif;
+  }
+  
+  main{
+      background: #8bd3f8;
+      width: 1000px;
+      margin: 20px auto;
+      box-shadow: 0px 0px 40px #000000;
+  }
+  
+  header{
+      margin: 20px -50px;
+      text-align: center;
+      border-bottom: 4px groove rgb(0, 0, 0);
+      padding: 20px 0;
+      background-color: #8bd3f8;
+      box-shadow: 0px 0px 30px #000000;
+      
+  }
+  
+  header img{
+      float: left;
+      width: 197px;
+      height: 93px;
+      margin: -28px 20px -91px 20px;
+  }
+  
+  h1{
+      font-size: 30px;
+      color: #000000;
+      text-align: center;
+      float: right;
+      margin: -22px 370px -30px 111px;
+      font-family: 'Times New Roman', Times, serif;
+    
+  }
+  
+  nav{
+      margin: 20px 20px;
+      padding:0 20px 20px;
+      
+      
+  }
+
+  
+   ul li{
+   
+   float: left;
+      margin: 11px 2px -22px 20px;
+      text-align: center;
+      list-style: none;
+  }
+  
+  ul li a{
+      text-decoration: none;
+      background-color:#000000;
+      color: white;
+      padding:7px 7px;
+      border-radius: 10px;
+      margin: 0 125px;
+      
+  }
+  
+  nav ul li a:hover{
+      background:url("../images/q.jpg");
+  }
+  
+  section{
+      padding: 20px;
+      text-align: justify;
+  }
+  
+  section h2{
+    text-align: center;
+      font-size: 30px;
+      padding: 10px 0;
+      color: #000000;
+      font-family: 'Times New Roman', Times, serif;
+  }
+  
+  section p{
+      margin: 20px 0;
+      font-size: 15px;
+      font-family: 'Times New Roman', Times, serif;
+      color: #000000;
+  }
+  
+  footer{
+    margin: 40px -50px;
+    text-align: center;
+    border-bottom: 4px groove rgb(0, 0, 0);
+    padding: 20px 0;
+    background-color: #8bd3f8;
+    box-shadow: 0px 0px 30px #000000;
+  }
+  footer p{
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+  }
+  
+  /* IDENTIFICADORES */
+  
+  
+  /* CLASES */
+  .centrar{
+      margin-top: 30px;
+      text-align: center;
+  }
+ 
+  .imgFloat img{
+   margin: 20px 267px;
+      width: 434px;
+      height: 267px;
+      border-radius: 20px;
+      
+      
+  }
+  
+  .caja{
+      border: 1px groove #000000;
+      box-shadow: 2px 2px 2px #000000;
+      border-radius: 15px;
+      padding: 20px;
+      margin: 20px 100px;
+      
+   
+  }
+  
+  .clear{
+      clear: both;
+  }
+  p{
+    color: #000000;
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+  .caja2{
+
+    padding: 20px;
+    margin:20px 492px 20px 34px;
+    float: right;
+  }
+  #imgFloat2{
+    
+   float: right;
+ margin: 20px  33px 20px 20px;
+ margin-top: -195px;
+ width: 433px;
+height: 184px; 
+border: 2px solid #000000;
+    box-shadow: 1px 1px 1px #000000;
+    border-radius: 15px;
+ }
+ .caja3{
+    
+   
+    padding: 20px;
+    margin:20px 34px 20px 492px;
+    float: right;
+ }
+ #imgFloat3{
+    
+    float: right;
+  margin: 20px  494px 20px 20px;
+  margin-top: -224px;
+  width: 433px;
+ height: 204px; 
+ border: 2px solid #000000;
+     box-shadow: 1px 1px 1px #000000;
+     border-radius: 15px;
+  }
+  .caja li a {
+    text-decoration: none;
+font-family: 'Times New Roman', Times, serif;
+color: white;
+  }
+  .caja li a:hover{
+
+    color: rgb(255, 255, 255);
+  }
+
+ 
